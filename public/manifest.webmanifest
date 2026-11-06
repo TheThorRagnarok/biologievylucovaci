@@ -1,0 +1,15 @@
+{
+  "name": "Vylučovací labyrint",
+  "short_name": "Labyrint",
+  "description": "Procvičovací hra na vylučovací soustavu.",
+  "lang": "cs",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FCEFE6",
+  "theme_color": "#FCEFE6",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
